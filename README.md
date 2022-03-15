@@ -2,7 +2,7 @@
 
 🌱 Study recently about React, Node.js  and PHP
 
-🎯 Focusing on front-end
+🎯 Focusing on Full-Stack!
  
 📫 How to find me: williamcarloscontas@gmail.com
 
