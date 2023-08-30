@@ -1,8 +1,6 @@
 ## Olá! Eu sou o William Ferreira! 
 
-🌱 Study recently about React, Node.js  and PHP
-
-🎯 Focusing on front-end
+Focusing on backend
  
 📫 How to find me: williamcarloscontas@gmail.com
 
