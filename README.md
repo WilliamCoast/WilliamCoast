@@ -3,7 +3,7 @@
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliamCoast&theme=gotham)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamCoast&theme=gotham)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-
+  <br />
  
   <div align="center" >
 <a href="https://www.linkedin.com/in/tsoclliw/"  target="_blank" >
@@ -15,7 +15,7 @@
 <a  href = "mailto:williamcarloscontas@gmail.com" target="_blank" >
   <img src="https://skillicons.dev/icons?i=gmail"   />
 </a>
-  <br />
+  <br />  <br />
 
 <a>
   <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,git"  />
