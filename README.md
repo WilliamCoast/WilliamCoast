@@ -6,6 +6,7 @@
   <br />
  
   <div align="center" >
+
 <a href="https://www.linkedin.com/in/tsoclliw/"  target="_blank" >
   <img src="https://skillicons.dev/icons?i=linkedin"  />
 </a> 
@@ -14,14 +15,15 @@
 </a> 
 <a  href = "mailto:williamcarloscontas@gmail.com" target="_blank" >
   <img src="https://skillicons.dev/icons?i=gmail"   />
-</a>
-  <br />  <br />
-
-<a>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,git"  />
+</a> 
+ 
+##
+  <a>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,git,javascript,mysql,docker"  />
 </a>
 
 ##
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=WilliamCoast&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
+  </div> 
+  
