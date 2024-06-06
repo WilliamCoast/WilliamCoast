@@ -1,17 +1,17 @@
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WilliamCoast&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamCoast&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WilliamCoast&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamCoast&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
  
   <div align="center" >
-<a href="https://www.linkedin.com/in/tsoclliw/"  >
-  <img src="https://skillicons.dev/icons?i=linkedin" target="_blank"  />
+<a href="https://www.linkedin.com/in/tsoclliw/"  target="_blank" >
+  <img src="https://skillicons.dev/icons?i=linkedin"  />
 </a> 
-<a href="https://www.instagram.com/tsoclliw/"  >
-  <img src="https://skillicons.dev/icons?i=instagram" target="_blank"  />
+<a href="https://www.instagram.com/tsoclliw/"  target="_blank"  >
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a> 
-<a  href = "mailto:williamcarloscontas@gmail.com" >
-  <img src="https://skillicons.dev/icons?i=gmail" target="_blank"  />
+<a  href = "mailto:williamcarloscontas@gmail.com" target="_blank" >
+  <img src="https://skillicons.dev/icons?i=gmail"   />
 </a>
   <br />
 
